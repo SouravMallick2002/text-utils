@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+.textbox{
+  margin-left: 20px;
+}
+
+#btn-circle {
+  border-radius: 50%;
+  width: 25px; /* Adjust the width and height as needed */
+  height: 25px;
+}
